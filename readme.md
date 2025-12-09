@@ -29,6 +29,7 @@ To successfully build and run this project, ensure you have the following librar
 3. Run the Python script.
 
 ## Acknowledgments 🙌
-Abhay Nautiyal Intern @btechwalleh
+Krish Chaturvedi 
 
 Feel free to explore, contribute, and enhance the School Management System project. Happy coding! 🚀✨
+
