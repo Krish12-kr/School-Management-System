@@ -1,13 +1,13 @@
 # School Management System in Python 🎓🐍
 
-Welcome to the School Management System project, an engaging endeavor created under the Btechwalleh Internship by Abhay. This intermediate-level project provides an excellent opportunity to enhance your skills in Python's Tkinter library, SQLite3, TkCalendar, Datetime, and more. Let's dive into the details!
+Welcome to the School Management System project, an engaging endeavor created by Krish . This intermediate-level project provides an excellent opportunity to enhance your skills in Python's Tkinter library, SQLite3, TkCalendar, Datetime, and more. Let's dive into the details!
 
 ## About School Management System 🏫
 
 A School Management System is designed to efficiently manage student and faculty information within an educational institution. Our project focuses on handling basic personal information of students.
 
 ## Project Overview 🚀
-This project is developed by Abhay Nautiyal during the internship tenure as python developer at @btechwalleh
+This project is developed by Krish Chaturvedi
 
 The main objective is to develop a GUI-based School Management System. This involves leveraging Tkinter for GUI creation, SQLite3 for database connectivity and data storage, TkCalendar for date input, Datetime for date manipulation, and Ttk modules for creating the information display tree.
 
@@ -28,8 +28,6 @@ To successfully build and run this project, ensure you have the following librar
 2. Install the required libraries.
 3. Run the Python script.
 
-## Acknowledgments 🙌
-Krish Chaturvedi 
-
 Feel free to explore, contribute, and enhance the School Management System project. Happy coding! 🚀✨
+
 
